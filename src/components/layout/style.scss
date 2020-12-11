@@ -59,3 +59,15 @@
     }
   }
 }
+
+.landing {
+  color: $colour2;
+  .upper-padding {
+    height: $navbar-height;
+  }
+  .landing-image {
+    background-color: $colour1;
+    height: 600px;
+    padding: 6px 3%;
+  }
+}

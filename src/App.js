@@ -3,8 +3,7 @@ import React from "react";
 import "./style.min.css";
 
 import Navbar from "./components/layout/Navbar";
-
-import Landing from "./components/routes/public/Landing.js";
+import Landing from "./components/layout/Landing.js";
 
 const App = () => {
   return (

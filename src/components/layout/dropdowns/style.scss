@@ -1,0 +1,11 @@
+@import "../../../variables.scss";
+
+.dropdown {
+  background-color: $colour3;
+  padding: 6px 2%;
+  position: absolute;
+  right: 0;
+  text-align: right;
+  top: $navbar-height;
+  width: 320px;
+}
