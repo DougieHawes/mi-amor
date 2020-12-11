@@ -1,0 +1,17 @@
+@import "variables.scss";
+
+::-webkit-scrollbar {
+  width: 7px;
+  background-color: $colour3;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: $colour1;
+  border-radius: 3px;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: $regular-font;
+  margin: 0;
+}
